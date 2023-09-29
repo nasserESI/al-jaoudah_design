@@ -1,0 +1,49 @@
+{
+    "parfum-femme":
+    [
+        {
+            "nom":"Hamidi Vanilla Elixir",
+            "ingrédient":"blablabla",
+            "prix":15.00
+        },
+        {
+            "nom":"Hamidi Musk Signature",
+            "ingrédient":"blablabla",
+            "prix":15.00
+        },
+        {
+            "nom":"Parfum Cheveux Ejmal Ehsas Bloom",
+            "ingrédient":"blablabla",
+            "prix":20.00
+        },
+        {
+            "nom":"",
+        },
+        {
+            "nom":"Eau de Milky Ejmal Ehsas bloom",
+            "ingrédient":"blablabla",
+            "prix":16.50
+        },
+        {
+            "nom":"Hamidi Yasmine bud&tuberose",
+            "ingrédient":"blablabla",
+            "prix":15.00
+        },
+        {
+            "nom":"Musk Tahara Hamidi",
+            "ingrédient":"blablabla",
+            "prix":15.00
+        },
+        {
+            "nom":"Hamidi Amber",
+            "ingrédient":"blablabla",
+            "prix":15.00
+        },
+        {
+            "nom":"Hamidi Black Musk",
+            "ingrédient":"blablabla",
+            "prix":15.00
+        }
+
+    ]
+}
